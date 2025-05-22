@@ -1,4 +1,4 @@
-let firstLine = "Cis fun";
+let firstLine = "C is fun";
 let secondLine ="Python is cool"
 let ThirdLine = "JavaScript is amazing"
 

@@ -1,4 +1,4 @@
 const argument = process.argv.slice(2);
 
-if (argument.length === 0)
+if (argument[0] === undefined)
 console.log("No argument");

@@ -1,5 +1,6 @@
-const Multilanguages = ["C is fun", "Python is is console", "JavaScript is amazing"] 
 
+const Multilanguages = ["C is fun", "Python is cool", "JavaScript is amazing"] 
+let i = "";
 for (const line of Multilanguages)
-
-    console.log(line);
+i += line + "\n"
+    console.log(i);
